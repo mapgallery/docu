@@ -1,6 +1,4 @@
-## Welcome to MapGallery
-
-You can use the [editor on GitHub](https://github.com/mapgallery/docu/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to MapGallery!
 
 [MapGallery](https://mapgallery.info/) is a powerful and intuitive WebGIS solution, built to better understand the environment. It is designed with a focus on simplicity, speed and usability. It allows non-technical administrators to manage the way geospatial data is published.
 
@@ -8,8 +6,8 @@ We are still developing cool new things. Also this Wiki is getting more complete
 
 ### Documentation links
 
-- [Link](url)
-- [Link](url)
+- [Start](./start.md)
+- [Start](./start.md)
 
 ### Terms and conditions
 
