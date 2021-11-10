@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to MapGallery
 
 You can use the [editor on GitHub](https://github.com/mapgallery/docu/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[MapGallery](https://mapgallery.info/) is a powerful and intuitive WebGIS solution, built to better understand the environment. It is designed with a focus on simplicity, speed and usability. It allows non-technical administrators to manage the way geospatial data is published.
 
-### Markdown
+We are still developing cool new things. Also this Wiki is getting more complete every day. Because the project is founded in the Netherlands, some documentation is still in Dutch. Our intention is to complete the Wiki with English documentation. Any help is appreciated!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Documentation links
 
-```markdown
-Syntax highlighted code block
+- [Link](url)
+- [Link](url)
 
-# Header 1
-## Header 2
-### Header 3
+### Terms and conditions
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mapgallery/docu/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+MapGallery is licensed under the BSL version 1.1. See LICENSE.txt and the MapGallery website for details. MapGallery is free to use internally in businesses and academic institutions and for non-commercial purposes. Certain types of commercial use such as building closed-source apps and devices based on MapGallery or offering MapGallery as a for-profit service requires a commercial license.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with MapGallery? Check out our [documentation](https://mapgallery.github.io/docu/) or [contact support](mailto:info@mapgallery.info) and we’ll help you sort it out.
