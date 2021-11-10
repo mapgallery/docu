@@ -1,13 +1,14 @@
 ## Welcome to MapGallery!
 
-[MapGallery](https://mapgallery.info/) is a powerful and intuitive WebGIS solution, built to better understand the environment. It is designed with a focus on simplicity, speed and usability. It allows non-technical administrators to manage the way geospatial data is published.
+[MapGallery](http://mapgallery.info) is a straightforward solution for interactive maps and location data viewing. It is designed with simplicity, performance and usability in mind and works efficiently across all major desktop and mobile platforms.
 
-We are still developing cool new things. Also this Wiki is getting more complete every day. Because the project is founded in the Netherlands, some documentation is still in Dutch. Our intention is to complete the Wiki with English documentation. Any help is appreciated!
+We are constantly developing cool new things. Also this Wiki is getting more complete every day. Because the project is founded in the Netherlands, some documentation is still in Dutch. Our intention is to complete the Wiki with English documentation. Any help is appreciated!
 
 ### Documentation links
 
-- [Start](./start.md)
-- [Start](./start.md)
+- [Deployment](./deploy.md)
+- [Admin guide](./admin.md)
+- [User guide](./user.md)
 
 ### Terms and conditions
 
