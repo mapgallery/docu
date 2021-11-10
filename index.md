@@ -4,7 +4,7 @@
 
 We are constantly developing cool new things. Also this Wiki is getting more complete every day. Because the project is founded in the Netherlands, some documentation is still in Dutch. Our intention is to complete the Wiki with English documentation. Any help is appreciated!
 
-### Documentation links
+## Documentation links
 
 - [Deployment](./deploy.md)
 - [Admin guide](./admin.md)
