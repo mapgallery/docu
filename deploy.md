@@ -1,8 +1,6 @@
-This is a docker image that eases setting up MapGallery for organizations. This image is based on the official [nginx](https://hub.docker.com/_/nginx) image.
+## Deployment
 
-## Installation
-
-Simple pull the image from the docker hub.
+This is a docker image that eases setting up MapGallery for organizations. This image is based on the official [nginx](https://hub.docker.com/_/nginx) image.  Simple pull the image from the docker hub.
 
 ```bash
 $ docker pull baasgeo/mapgallery:tagname
@@ -16,7 +14,7 @@ $ cd mapgallery-docker
 $ docker build -t "baasgeo/mapgallery:tagname" .
 ```
 
-## Quick start
+### Quick start
 
 Create a data folder on your host:
 
